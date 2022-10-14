@@ -1,0 +1,134 @@
+body{
+    font-size: 16px; /* 1 em */
+    margin: 0px auto;
+    max-width: 1024px;
+    min-width: 1024px;
+}
+header nav{
+    background: rgb(255, 89, 0);
+    border-radius: 5px;
+    margin-left: -15px;
+}
+header nav ul{
+    padding: 10px;
+}
+header nav ul li{
+    color: white;
+    display: inline-block;
+    font-size: 1.1em;
+    margin-right: 20px;
+}
+aside{
+    float: right;
+    margin-right: 30px;
+    width: 31%;
+}
+aside article{
+    margin-top: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+aside article img{
+    margin-left: 3px;
+}
+aside article ul li{
+    padding: 4px;
+    border-bottom: 1px dotted gray;
+    margin-right: 30px;
+}
+section{
+    display: inline-block;
+    width: 65%;;
+}
+#search{
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 3px;
+}
+#search input{
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 4px;
+}
+#search input[type="submit"]{
+    background: rgb(193, 188, 188);
+    border: 1px solid black;
+    color: white;
+}
+#search input[type="text"]{
+    padding-right: 40px;
+}
+#seccion01{
+    border-bottom: 1px solid gray;
+}
+#seccion02{
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+#seccion03{
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+#seccion03 article{
+    display: inline-block;
+}
+#secc03art01{
+    margin-right: 5px;
+    vertical-align: top;
+    width: 28%;
+}
+#secc03art01 img{
+    border: 10px solid rgb(193, 188, 188);
+}
+#secc03art02{
+    width: 70%;
+}
+#secc03art02 span{
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+#secc03art02 input{
+    background: rgb(193, 188, 188);
+    border: 1px solid rgb(193, 188, 188);
+    border-radius: 5px;
+    color: white;
+    padding: 8px;
+}
+#thema{
+    display: block;
+    width: 25%;
+    margin-bottom: 35px;
+}
+#titulopost{
+    color: gray;
+    font-size: 1.8em;
+}
+.encabezado{
+    background: rgb(255, 89, 0);
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    margin-top: -15px;
+    padding: 5px;
+    text-align: center;
+    width: 99%;
+}
+.cursiva{
+    font-style: italic;
+}
+.negrita{
+    font-weight: bold;
+}
+.redes{
+    margin-top: 30px;
+    float: right;
+}
