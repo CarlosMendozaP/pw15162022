@@ -1,0 +1,170 @@
+body{
+    font-size: 16px; /* 1 em */
+    margin: 0px auto;
+    max-width: 1024px;
+    min-width: 1024px;
+}
+header img{ 
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 180px;
+}
+nav{
+    text-align: right;
+    background: #efefef;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+nav img{
+    display: inline-block;
+    margin-right: 5px;
+}
+section{
+    margin-left: 20px;
+    width: 98%;
+}
+aside article article img{
+    width: 20px;
+}
+aside{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 15px;
+    vertical-align: top;
+    width: 23%;
+}
+#notificaciones{
+    width: 100px;
+}
+#mensajes{
+    width: 80px;
+}
+#ajustes{
+    width: 80px;
+}
+#asideart01{
+    background: #1e4973;
+    color: white;
+}
+#asideart01 ul{
+    list-style: none;
+    margin-left: -25px;
+}
+#asideart01 ul li{
+    padding: 4px;
+}
+#asideart02{
+    margin-top: 10px;
+    background: white;
+}
+#barras{
+    color: gray;
+    padding: 10px;
+}
+#barras img{
+    width: 98%;
+}
+#contenido{
+    background: #efefef;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#marco{
+    background: #245d92;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+#secciones{
+    background: white;
+    border-radius: 5px;
+    color: gray;
+    display: inline-block;
+    width: 73%;
+}
+#seccion01{
+    margin-top: 10px;
+}
+#seccion01 article{
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 23%;
+}
+#seccion01 article img{
+    display: block;
+    margin: auto;
+    width: 75px;
+}
+#seccion01 span{
+    padding: 10px;
+}
+#seccion01art01{
+    background: #19a820;
+    padding-top: 6px;
+}
+#seccion01art02{
+    background: #1b6da9;
+}
+#seccion01art03{
+    background: #7f1aa7;
+    padding-top: 2px;
+}
+#seccion01art04{
+    background: #a71a19;
+    padding-top: 4px;
+}
+#seccion02 article img{
+    width: 99%;
+}
+#seccion02 article span{
+    padding: 10px;
+}
+#seccion03{
+    padding-bottom: 15px;
+}
+#seccion03 article{
+    background: #496bae;
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    vertical-align: top;
+    width: 23%;
+}
+#seccion03 article img{
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+#seccion03 article input{
+    background: #5dbedb;
+    border: 1px solid #5dbedb;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    padding: 5px;
+}
+#seccion03 span{
+    padding: 8px;
+}
+#usuario01{
+    padding-top: 9px;
+}
+.barra{
+    width: 200px;
+}
+.panel{
+    background: #255c92;
+    color: white;
+    width: 100%;
+    height: 40px;
+}
+.subtitulo{
+    display: block;
+}
